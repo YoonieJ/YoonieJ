@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:FFD6E8,100:C7CEEA&height=200&section=header&text=Hi,%20I'm%20Yoon%20Jang!%20&fontSize=38&fontColor=5A4A6E&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:FFD6E8,100:C7CEEA&height=200&section=header&text=Hi,%20I'm%20Yoon%20Jang!&fontSize=60&fontColor=5A4A6E&animation=fadeIn&fontAlignY=40)
 
 </div>
 
