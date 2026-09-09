@@ -52,13 +52,6 @@ Created interactive animation and graphics-based projects using MonoGame and C#.
 - Graphics and simulation projects
 - Startup product development
 
-## GitHub Stats
-
-<div align="center">
-
-![Yoon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoonieJ&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonieJ&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
 ## Contact
