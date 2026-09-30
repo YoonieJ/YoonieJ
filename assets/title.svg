@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="title">
+  <title id="title">I'm yoon</title>
+  <style>
+    @font-face {
+      font-family: "Departure Mono";
+      src: url("fonts/DepartureMono-Regular.woff2") format("woff2"),
+           url("fonts/DepartureMono-Regular.woff") format("woff");
+    }
+    text {
+      font-family: "Departure Mono", monospace;
+      font-size: 72px;
+      fill: #5A4A6E;
+    }
+  </style>
+  <rect width="900" height="200" rx="24" fill="#F8EAF1" />
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle">I'm yoon</text>
+</svg>
