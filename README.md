@@ -1,6 +1,6 @@
 <div align="center">
 
-![I'm yoon](assets/title.svg)
+![Hi! I'm yoon](assets/title.svg)
 
 </div>
 
